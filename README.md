@@ -21,8 +21,8 @@ The operations manager recently presented to the board of directors the summariz
 
 |                | Whole  | Cluster | Crunch | Roasted |
 |----------------|--------|---------|--------|---------|
-| Sales Revenue  | €5.34  | €5.60   | €15.10 | €9.25   |
-| Variable Costs | €3.26  | €1.80   | €3.38  | €6.60   |
+| Sales Revenue  | €5304  | €1800   | €510 | €925   |
+| Variable Costs | €3296  | €1280   | €338  | €660   |
 | Quantity Sold  | 1040 kg| 500 kg  | 150 kg | 200 kg  |
 
 *Table 2: Summarized financial data of MNC's average weekly operations*
