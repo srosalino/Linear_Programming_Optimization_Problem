@@ -26,3 +26,25 @@ The operations manager recently presented to the board of directors the summariz
 | Quantity Sold  | 1040 kg| 500 kg  | 150 kg | 200 kg  |
 
 *Table 2: Summarized financial data of MNC's average weekly operations*
+
+**Questions**
+
+1) Present a linear programming model for this problem, knowing that the MNC intends to maximize profit for the next week.
+2) Create a spreadsheet to model this problem and solve it using Excel Solver (other software will not be accepted)
+3) Present the optimal solution in the context of the problem, as well as other information that may be relevant (give preference to illustrative tables and figures).
+4) Create a sensitivity report and answer the following questions:
+    a) Is the solution degenerate?  
+    b) Is the solution unique?  
+    c) If MNC wanted to decrease the production of any product, which would you recommend and why?  
+    d) If MNC wanted to increase the production of any product, which would you recommend and why?  
+    e) What resources are preventing MNC from earning more money? If it could have more of these resources, how much should it have and how much would it be willing to pay for them?  
+    f) How much would MNC be willing to pay to acquire more chocolate?  
+    g) If the marketing department wanted to reduce the selling price of the Whole product by €0.25, would the optimal solution change?
+5) Create a table and graph that illustrate the impact on total profit of changing the time required in the packaging process for each product, making them vary between 70% and 130% of their original value, in 10% increments. Interpret the information in the resulting graph.
+6) Create a table and graph that illustrate the impact on total profit of changing the availability of nuts and chocolate by varying them between 70% and 100% of their original value, in 10% increments. Interpret the information in the resulting graph.
+7) Introduce some change to the given problem, so that the linear programming model presented in 1. has to be changed. It can be any change that leads, for example: i) to the inclusion of new restrictions; ii) changes in the objective function; iii) to
+use of integer or binary variables; iv) the inclusion of new decision variables; v) changing the original decision variables. Some coherent change in the context of the problem is enough, multiple changes are not necessary.
+    <br>
+    a) Present the new model in linear programming.
+    <br>
+    b) Solve the new problem and present the main results (give preference to illustrative tables and figures).
